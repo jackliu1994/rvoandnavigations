@@ -1,0 +1,3 @@
+[Project]
+Manager=KDevCMakeManager
+Name=collvoid_local_planner
